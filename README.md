@@ -3,6 +3,9 @@
 
 Este proyecto utiliza datos de The Movie Database (TMDB) para construir un modelo predictivo que clasifique si una película mexicana será exitosa o no, a partir de información pública como su elenco, género, idioma, año de lanzamiento, presupuesto y más.
 
+Reporte ejecutivo disponible en: 
+[https://drive.google.com/drive/folders/1_EfBAIjvlHfV-rE1kBz6X4aCQTE-h0V6?usp=sharing](https://drive.google.com/drive/folders/1_EfBAIjvlHfV-rE1kBz6X4aCQTE-h0V6?usp=sharing)
+
 ## 🧠 Modelo de Machine Learning
 
 - Tipo de modelo: Clasificación binaria

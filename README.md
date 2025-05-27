@@ -28,8 +28,10 @@ Este proyecto utiliza datos de The Movie Database (TMDB) para construir un model
 - Recall: 0.93 (clase 0) / 0.90 (clase 1)
 
 ## 📁 Estructura del proyecto
-/data_api_tmdb.py/# Código para recolección desde TMDB
-/features_modeling.ipynb/# Ingeniería de datos, transformación, entrenamiento, tuning y evaluación
+* /data_api_tmdb.py/  *Código para recolección desde TMDB*
+
+
+* /features_modeling.ipynb/ *Ingeniería de datos, transformación, entrenamiento, tuning y evaluación*
 
 
 ## 📌 Requisitos
